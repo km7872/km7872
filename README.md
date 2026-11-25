@@ -12,7 +12,7 @@
 
   <a href="https://www.linkedin.com/in/katyani-mehra/">LinkedIn</a>
   ·
-  <a href="https://katyanimehra.substack.com/">Substack</a>
+  <a href="https://substack.com/@katyanimehra">Substack</a>
   ·
   <a href="mailto:katyani.mehra.dev@gmail.com">Email</a>
   ·
@@ -66,7 +66,7 @@ Private take-homes and company source stay private. Ask me about the production 
 | **Systems** | [How does Git compare a 200-page file?](https://katyanimehra.substack.com/p/how-does-git-compare-a-200-page-file) |
 | **Research** | [Tracking ASL Gestures Using Autoencoders](https://accessible-cps.github.io/) — BONSAI Lab (RIT), ACM UIST 2025 Symposium Workshop |
 
-More on [Substack](https://katyanimehra.substack.com/) · latest posts (auto-updated):
+More on [Substack](https://substack.com/@katyanimehra) · latest posts (auto-updated):
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

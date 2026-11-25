@@ -50,6 +50,11 @@ Software engineer with ~8 years across full-stack, backend, data platforms, and 
 More on [Substack](https://substack.com/@katyanimehra) · latest posts (auto-updated):
 
 <!-- BLOG-POST-LIST:START -->
+- [How I keep Production Code from turning into Slop while using multi Coding agents..](https://katyanimehra.substack.com/p/how-i-keep-production-code-from-turning)
+- [How to not make rabbits jump: Codeforces 2147C](https://katyanimehra.substack.com/p/how-to-not-make-rabbits-jump-codeforces)
+- [Thankful to Koko Eating Bananas - Codeforces 1873E : Building an Aquarium](https://katyanimehra.substack.com/p/thankful-to-koko-eating-bananas-codeforces)
+- [When Recursive DFS fails but Iterative DFS saves the day- Codeforces 1829E](https://katyanimehra.substack.com/p/when-recursive-dfs-fails-but-iterative)
+- [How does Git compare a 200 page file?](https://katyanimehra.substack.com/p/how-does-git-compare-a-200-page-file)
 <!-- BLOG-POST-LIST:END -->
 
 ### Selected public work

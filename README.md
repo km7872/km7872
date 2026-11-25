@@ -21,30 +21,13 @@
 
 ---
 
-<table>
-<tr>
-<td width="56%" valign="top">
-
 ### About
 
 Software engineer with ~8 years across full-stack, backend, data platforms, and production AI. I own products end to end: first customer conversation through shipping.
 
 **Ex-founding engineer (Google for Startups, Vercel).** Open to **Senior / Staff / Forward Deployed Engineering**.
 
-Most day-to-day work has lived on private or enterprise GitHub. This page is the public slice: writing, talks, research, and selected repos.
-
-</td>
-<td width="44%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=km7872&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&hide=issues&theme=transparent" alt="GitHub stats for km7872" />
-
-</td>
-</tr>
-</table>
-
 ### What I actually ship
-
-Not one job — the through-line across roles:
 
 - **Data platforms** — multi-client ingestion (~3M records/day, 15+ connectors); donor pipelines (C# / Oracle → modular PL/SQL); inverted-index product matching
 - **Production AI agents** — custom memory + RAG, tool use, in-code privacy gates; legal-doc agent pitched in Seattle; daily coding-agent contracts so tools don’t fight each other
@@ -53,8 +36,6 @@ Not one job — the through-line across roles:
 - **Cloud, queues, security** — GCP (Cloud Run, Cloud Tasks, Cloud Build), AWS, Azure, RabbitMQ / SQS, IAM, SOC 2, CI that catches silent production failures
 - **Applied ML / research** — custom VQ-VAE in PyTorch for continuous ASL video (BONSAI Lab, RIT), featured at ACM UIST 2025
 - **Field + community** — operator office hours that fed the roadmap; GDG Cloud & ML workshops; ICPC Foundation; Women in Computing
-
-Private take-homes and company source stay private. Ask me about the production work that cannot live in a public repo.
 
 ### Talks, writing, research
 
@@ -112,7 +93,7 @@ Team project from SWEN 614 (You’re My Celebrity).
 <td width="50%" valign="top">
 
 **[BONSAI Lab](https://github.com/bonsai-neuro-ai)** · RIT  
-Neuroscience + AI org. ASL autoencoder work; I’ll pin a specific repo once it belongs on this account.
+Neuroscience + AI research org. ASL gesture tracking with autoencoders (ACM UIST 2025).
 
 </td>
 </tr>
@@ -136,7 +117,7 @@ Neuroscience + AI org. ASL autoencoder work; I’ll pin a specific repo once it 
 
 <br>
 
-M.S. Computer Science, Rochester Institute of Technology (GPA 3.72), May 2025  
-B.S. Information Technology, University of Mumbai (GPA 3.97), May 2018
+M.S. Computer Science, Rochester Institute of Technology (GPA 3.72)  
+B.S. Information Technology, University of Mumbai (GPA 3.97)
 
 </details>
